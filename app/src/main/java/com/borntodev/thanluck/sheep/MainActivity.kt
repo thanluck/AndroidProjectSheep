@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
             {
                 var introduce = "Hello my name is $name. I'm $age year old."
                 textViewHello.text = introduce
-                Toast.makeText(this,"Success.",Toast.LENGTH_LONG).show()
+                Toast.makeText(this,"Success1.",Toast.LENGTH_LONG).show()
             }
 
 
